@@ -19,3 +19,4 @@ Detailed specialty level and age profile analysis
 - Step 5 : Design of the dashboard - two pages with filters and metrics of data based on month, case type and specialty
 - Step 6 : Created Summary and Detail pages of the dynamic dashboard. 
 - Step 7 : Add aesthetics, and update 'Edit interactions' on the Case_type filter to avoid filtering on the montly trend analysis based on daycases chart at the bottom
+![Image](https://github.com/user-attachments/assets/464b4692-e48a-409e-bb22-092af32f1f74)
